@@ -20,7 +20,7 @@
    - Doing canvassing
 #### 2. [Bengkel Las Nawa Sakti]. | Craftsman | Medan `2018-2019`
    - Make repairs to trellis equipment
-   - Make trellis equipmen
+   - Make trellis equipment
 ---
 
 ### Languages and Tools:
