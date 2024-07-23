@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Wisesa Panca Praja Damanik Ambarita - Wisesa [wise_saaa](https://www.instagram.com/wise_saaa/) 👋
 ## About me:
 - 🔭 I’m currently on Job Seeker
 - 🌱 I’m currently learning Adobe Photoshop and Programming Language
