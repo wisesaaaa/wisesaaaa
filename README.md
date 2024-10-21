@@ -21,6 +21,19 @@
 #### 2. [Bengkel Las Nawa Sakti]. | Craftsman | Medan `2018-2019`
    - Make repairs to trellis equipment
    - Make trellis equipment
+#### 2. [TVRI Sumatera Utara]. | Apprenticeship | Medan `2022-2022`
+   - Preparing Live Streaming on YouTube, Facebook and Instagram
+   - Prepare zoom between sources and news anchors during news broadcasts
+   - Prepare texts containing news that will be broadcast
+   - Adjust audio during recording or live broadcast
+#### 2. [PT. Kurnia Putra Madumma]. | Asset data collection officer and Sr/App Register | Samosir `2024-2024`
+   - Tangging Electric Poles and JTR in the field
+   - Collect data on Electricity Meters (Sr/App) for each house in the field
+#### 2. [PT. Kurnia Putra Maduma]. | Admin | Medan `2024-2024`
+   - Collecting data on Transformer Tanggings that have been carried out by field workers
+   - Carrying out Sr/App data collection that has been carried out by field workers
+   - Make daily work results reports
+   - Create work results validation reports via Excel
 ---
 
 ### Languages and Tools:
