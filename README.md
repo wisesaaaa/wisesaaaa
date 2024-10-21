@@ -29,7 +29,7 @@
 #### 2. [PT. Kurnia Putra Madumma]. | Asset data collection officer and Sr/App Register | Samosir `2024-2024`
    - Tangging Electric Poles and JTR in the field
    - Collect data on Electricity Meters (Sr/App) for each house in the field
-#### 2. [PT. Kurnia Putra Maduma]. | Admin | Medan `2024-2024`
+#### 2. [PT. Kurnia Putra Maduma]. | Admin | Samosir `2024-2024`
    - Collecting data on Transformer Tanggings that have been carried out by field workers
    - Carrying out Sr/App data collection that has been carried out by field workers
    - Make daily work results reports
